@@ -366,7 +366,8 @@ const AppointmentScreen = () => {
                     marginTop={90}
                     color={activeColors.tint}
                   >
-                    Appointment Masih Kosong
+                    Appointment Still empty
+
                   </Text>
                   {UserData.role === "Doctor" ? (
                     <Text
@@ -375,8 +376,8 @@ const AppointmentScreen = () => {
                       px={8}
                       color={activeColors.tertiary}
                     >
-                      Ayo mulai buat janji dengan dokter pilihan anda secara
-                      gratis.
+                      Come on, start making an appointment with the doctor of your choice
+                      Free.
                     </Text>
                   ) : (
                     <>
@@ -386,8 +387,8 @@ const AppointmentScreen = () => {
                         px={8}
                         color={activeColors.tertiary}
                       >
-                        Ayo mulai buat janji dengan dokter pilihan anda secara
-                        gratis.
+                        Come on, start making an appointment with the doctor of your choice
+                        Free.
                       </Text>
                       <TouchableOpacity
                         onPress={() => navigation.navigate("Doctor")}
@@ -400,7 +401,7 @@ const AppointmentScreen = () => {
                         }}
                       >
                         <Text color={"white"} p={3}>
-                          Buat Janji Sekarang
+                        Make an Appointment Now
                         </Text>
                       </TouchableOpacity>
                     </>
