@@ -65,7 +65,6 @@ const DataArticles = [
 		content: `
 		5 out of 10 workers of productive age in Indonesia have had stomach ulcers, whether only occasionally or if it has become a chronic or acute disease. Ulcer disease cannot be considered trivial, because it can have serious consequences if not treated properly.
 
-
 		What are the preventive measures and how to treat stomach ulcers?
 
 		Symptoms of stomach ulcers

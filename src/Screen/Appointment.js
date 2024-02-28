@@ -172,7 +172,7 @@ const AppointmentScreen = () => {
         }
 
         console.log(
-          "Appointment Data State (Pasien): ",
+          "Appointment Data State (Patient): ",
           appointmentDataState
         );
         setData(appointmentDataState);

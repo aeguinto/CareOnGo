@@ -13,9 +13,9 @@ import ReactNativeAsyncStorage from '@react-native-async-storage/async-storage';
 //   apiKey: "AIzaSyCtN0csy4ylDxWSXnkLp_psgnSnsFozNJ4",
 //   authDomain: "careongo-7a6cd.firebaseapp.com",
 //   projectId: "careongo-7a6cd",
-//   storageBucket: "careongo-7a6cd.appspot.com",
-//   messagingSenderId: "485747146509",
-//   appId: "1:485747146509:web:bb42a4d3ef8439072a7a44",
+//   storageBucket: "careon6509",
+//   appId: "1:485747146509:web:bb4go-7a6cd.appspot.com",
+//   messagingSenderId: "485747142a4d3ef8439072a7a44",
 //   measurementId: "G-F968EKEQKX"
 // };
 export const firebaseConfig = {

@@ -3,41 +3,41 @@ const DataObats = [
 	  link: "https://www.orami.co.id/magazine/neuralgin",
 	  pubDate: "7 November 2023",
 	  thumbnail: require("./assets/images/Neuralgin.jpg"),
-	  title: "Obat Pereda Nyeri Neuralgin: Kandungan hingga Efek Samping",
+	  title: "Neuralgin Pain Reliever: Ingredients and Side Effects",
 	  description:
-		"Ketahui kandungan neuralgin untuk merasakan khasiatnya, Moms!",
+		"Know what neuralgin contains to experience its benefits, Moms!",
 	},
 	{
 	  link: "https://www.orami.co.id/magazine/orphen",
-	  pubDate: "7 Agustus 2023",
+	  pubDate: "7 August 2023",
 	  thumbnail: require("./assets/images/Orphen.jpg"),
-	  title: "Orphen (Obat Alergi): Manfaat, Dosis, dan Efek Samping",
+	  title: "Orphen (Allergy Drug): Benefits, Dosage, and Side Effects",
 	  description:
-		"Ingin meredakan gatal dan mata berair karena alergi? Moms dan Dads bisa coba Orphen",
+		"Want to relieve itchy and watery eyes due to allergies? Moms and Dads can try Orphen",
 	},
 	{
 	  link: "https://www.orami.co.id/magazine/ibuprofen",
-	  pubDate: "4 Juli 2023",
+	  pubDate: "4 July 2023",
 	  thumbnail: require("./assets/images/Ibuprofen.jpg"),
-	  title: "Ibuprofen: Manfaat, Dosis Takaran, Efek Samping, dan Harga",
+	  title: "Ibuprofen: Benefits, Dosage, Side Effects, and Price",
 	  description:
-		"Ibuprofen adalah obat yang sering digunakan untuk menghilangkan rasa sakit",
+		"Ibuprofen is a drug often used to relieve pain",
 	},
 	{
 	  link: "https://www.orami.co.id/magazine/dexteem-plus",
 	  pubDate: "31 December 2023",
 	  thumbnail: require("./assets/images/Dexteem.jpg"),
-	  title: "Dexteem Plus: Ketahui Manfaat, Dosis, dan Efek Sampingnya di Sini",
+	  title: "Dexteem Plus: Know the Benefits, Dosage and Side Effects Here",
 	  description:
-		"Obat ini biasa digunakan untuk meredakan gejala alergi, rhinitis dan biduran",
+		"This drug is usually used to relieve symptoms of allergies, rhinitis and hives",
 	},
 	{
 	  link: "https://www.orami.co.id/magazine/curcuma-force",
 	  pubDate: "21 October 2023",
 	  thumbnail: require("./assets/images/Curcuma.jpg"),
-	  title: "Curcuma Force: Dosis, Cara Penggunaan, dan Efek Samping",
+	  title: "Curcuma Force: Dosage, How to Use, and Side Effects",
 	  description:
-		"Efektif meningkatkan dan memperbaiki nafsu makan",
+		"Effectively increases and improves appetite",
 	},
   ];
   
